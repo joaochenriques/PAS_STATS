@@ -1,1 +1,1 @@
-# PAS-STATS
+# **Wave Energy** statistics
