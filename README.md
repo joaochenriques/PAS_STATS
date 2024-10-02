@@ -1,4 +1,4 @@
-# **Statistics of publication on Wave Energy**
+# **Statistics of publication on Wave Energy (2024/10/01)**
 
 ### **Evolution of the number papers  per year**
 ![PubsLast20Years.svg](https://raw.githubusercontent.com/joaochenriques/WaveEnergyStatistics/6bc4689c489953d847682e62891cfd598066256f/PubsLast20Years.svg)
