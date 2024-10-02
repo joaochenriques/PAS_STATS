@@ -1,7 +1,10 @@
-# **Wave Energy** statistics
+# **Statistics of publication on Wave Energy**
 
+## **Evolution of the number papers  per year**
 ![PubsLast20Years.svg](https://raw.githubusercontent.com/joaochenriques/WaveEnergyStatistics/6bc4689c489953d847682e62891cfd598066256f/PubsLast20Years.svg)
 
+
+## Statistics of papers published over the last 25 years with the keyword ``wave energy'' in the most relevant journals. The number of papers published since 1999 is 4939 by 9093 authors.
 
 | Order | Country | Number of papers   | Author   | Number of papers   | Author  | Number of citations      |
 |------------------------|--------------------------|-----------|---------------------------|-----------|---------------------------|--------------|
