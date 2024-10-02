@@ -1,6 +1,6 @@
 # **Wave Energy** statistics
 
-![Alt text](PubsLast20Years.svg,?raw=true "Title")
+![PubsLast20Years.svg](https://raw.githubusercontent.com/joaochenriques/WaveEnergyStatistics/6bc4689c489953d847682e62891cfd598066256f/PubsLast20Years.svg)
 
 
 | Order | Country | Number of papers   | Author   | Number of papers   | Author  | Number of citations      |
