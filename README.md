@@ -16,6 +16,6 @@
 | 6                      | Italy                    | 225       | Shi H.                    | 64        | **Henriques J.C.C.**      | 3013         |
 | 7                      | Australia                | 197       | Greaves D.                | 60        | Babarit A.                | 2924         |
 | 8                      | India                    | 188       | Falcão A.F.O.             | 59        | Moan T.                   | 2904         |
-| 9                      | Ireland                  | 180       | Taveira{-}Pinto F.        | 55        | Jiang T.                  | 2773         |
+| 9                      | Ireland                  | 180       | Taveira-Pinto F.          | 55        | Jiang T.                  | 2773         |
 | 10                     | Sweden                   | 133       | Leijon M.                 | 53        | Greaves D.                | 2596         |
 
