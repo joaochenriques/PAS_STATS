@@ -1,6 +1,6 @@
 # **Wave Energy** statistics
 
-![Alt text](./PubsLast20Years.svg,?raw=true "Title")
+![Alt text](PubsLast20Years.svg,?raw=true "Title")
 
 
 | Order | Country | Number of papers   | Author   | Number of papers   | Author  | Number of citations      |
