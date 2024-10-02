@@ -1,9 +1,8 @@
 # **Wave Energy** statistics
 
 
-| \multirow{2}{*}{Order} | \multirow{2}{*}{Country} | Number    | \multirow{2}{*}{Author}   | Number    | \multirow{2}{*}{Author}   | Number       |
+| Order | Country} | Number of papers   | Author   | Number of papers   | Author  | Number of citations      |
 |------------------------|--------------------------|-----------|---------------------------|-----------|---------------------------|--------------|
-|                        |                          | of papers |                           | of papers |                           | of citations |
 | 1                      | China                    | 1132      | Ringwood J.V.             | 115       | Falcão A.F.O.             | 7338         |
 | 2                      | United States            | 545       | Iglesias G.               | 88        | Wang Z.L.                 | 6515         |
 | 3                      | United Kingdom           | 478       | Guedes Soares C.          | 76        | Iglesias G.               | 6325         |
